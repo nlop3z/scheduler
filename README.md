@@ -3,7 +3,7 @@
 ## Purpose
 An application that runs in the browser and allows you to import events to a daily planner.
 
-## Build with:
+## Built with:
 * HTML
 * CSS
 * JavaScript
