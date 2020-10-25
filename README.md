@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
 ## Purpose
 An application that runs in the browser and allows you to import events to a daily planner.
